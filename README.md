@@ -8,20 +8,12 @@ Once a classifier was created, a Grid Search was used to tune the model making t
 
 ## Requirements:
 
-```bash
-    pip install numpy
 ```
-
-```bash
-    pip install pandas
-```
-
-```bash
-    pip install sklearn
+pip install numpy pandas sklearn
 ```
 
 ## Running the application:
 
-```bash
-    py script.py
+```
+py script.py
 ```
