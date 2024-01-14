@@ -10,7 +10,13 @@ Once a classifier was created, a Grid Search was used to tune the model making t
 
 ```bash
     pip install numpy
+```
+
+```bash
     pip install pandas
+```
+
+```bash
     pip install sklearn
 ```
 
